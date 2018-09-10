@@ -11,3 +11,5 @@ echo 'hello world';
 var_dump([1,2,3,4,5]);
 
 echo 'good work';
+
+123;
